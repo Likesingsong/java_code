@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 /bin/
+settings.json
 # Log file
 *.log
 
