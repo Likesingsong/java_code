@@ -25,6 +25,7 @@ package chapter02;
  *      3. 同一个作用域内，不可以声明两个同名的变量
  *      4. 变量值在赋值时必须满足变量的数据类型，并且在数据类型的有效范围内变化
  */
+@SuppressWarnings("unused")
 public class VariableTest {
     public static void main(String[] args) {
         //定义变量的方式1
@@ -49,7 +50,7 @@ public class VariableTest {
         //b1 = 128; //超出了byte的范围
 
     }
-    @SuppressWarnings("unused")
+    
     public static void main123(String[] args) {
         char gender = '女';
     }
