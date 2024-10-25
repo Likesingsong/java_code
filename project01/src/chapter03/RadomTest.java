@@ -17,10 +17,10 @@ public class RadomTest {
 
         System.out.println("randomNum = " + randomNum);
 
-        // 获取一个[0, 100]范围的随机整数
+        //获取一个[0, 100]范围的随机整数
         int i1 = (int) (Math.random() * 101);
         System.out.println("i1 = " + i1);
-        // 获取一个[1, 100]范围的随机整数
+        //获取一个[1, 100]范围的随机整数
         int i2 = (int) (Math.random() * 100) + 1;
         System.out.println("i2 = " + i2);
     }
