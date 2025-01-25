@@ -1,7 +1,7 @@
 package chapter02;
 
 /**
- * IdentiferTest
+ * IdentifierTest
  * 
  * 1.什么是标识符？
  * Java中变量、方法、类等要素命名时使用的字符序列，称为标识符。
@@ -18,12 +18,12 @@ package chapter02;
  * 包名:多单词组成时所有字母都小写:xxxyyyzzz。
  * 例如:
  * java.lang、com.atguigu.bean
- * 类名、接口名:多单词组成时，所有单词的首字母大写:xxxYyyZzz
- * 例如:HelloWorld,string,system等
+ * 类名、接口名:多单词组成时，所有单词的首字母大写:XxxYyyZzz
+ * 例如:HelloWorld,String,System等
  * 变量名、
- * 方法名:多单词组成时，第一个单词首字母小写，第二个单词开始每个单词首字母大写:xxxyyZzz
+ * 方法名:多单词组成时，第一个单词首字母小写，第二个单词开始每个单词首字母大写:xxxYyyZzz
  * 例如:age,name,bookName,main,binarySearch,getName
- * 常量名:所有字母都大写。多单词时每个单词用下划线连接:xxXZZ
+ * 常量名:所有字母都大写。多单词时每个单词用下划线连接:XXX_YYY_ZZZ
  * 例如:MAX VALUE,PI,DEFAULT CAPACITY
  */
 @SuppressWarnings("unused")
