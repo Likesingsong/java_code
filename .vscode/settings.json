@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "project01",
+        "project01\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "project01\\lib\\byte-buddy-1.12.23.jar",
+        "project01\\lib\\hamcrest-core-1.3.jar",
+        "project01\\lib\\junit-4.13.2.jar",
+        "project01\\lib\\mockito-core-4.11.0.jar",
+        "project01\\lib\\objenesis-2.6.jar"
+    ],
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+}

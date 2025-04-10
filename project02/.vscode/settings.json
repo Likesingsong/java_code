@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "editor.dropIntoEditor.preferences": [],
+    "editor.formatOnSave": true,
+    "editor.wordWrapColumn": 120,
+    "files.autoSave": "afterDelay",
+    "java.debug.settings.console": "externalTerminal"
+}
